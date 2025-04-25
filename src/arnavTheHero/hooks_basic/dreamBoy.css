@@ -1,0 +1,27 @@
+.main {
+   height: 100vh;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   width: 100vw;
+   background-color: white;
+   
+   color: black;
+  }
+  .main2{
+    display: flex;
+    gap: 4px;
+  }
+  
+  h1{
+    color: black;
+  }
+
+  button{
+    background-color: aqua;
+    color: black;
+    border: none;
+    padding: 4px;
+    text-decoration: solid;
+  }
